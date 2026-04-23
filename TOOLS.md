@@ -29,7 +29,7 @@ Things like:
 
 ## Custom Skills
 
-- **daily-calendar-reminder:** Location `/app/skills/daily-calendar-reminder/`
+- **daily-calendar-reminder:** Location `~/.openclaw/workspace/skills/daily-calendar-reminder/`
   - Function: Daily morning notification with 5 sections:
     1. Today's calendar events
     2. Today's non-calendar todos

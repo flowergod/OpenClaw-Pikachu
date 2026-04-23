@@ -12,8 +12,8 @@ This is your curated long-term memory. Only load this in main sessions.
 
 ## Key Configuration
 
-- **Daily notification cron ID: `76d2eb5a-6c3d-4b2e-8479-59e30d0c8323`
-- **Custom skill location**: `/app/skills/daily-calendar-reminder/
+- **Daily notification cron ID**: `76d2eb5a-6c3d-4b2e-8479-59e30d0c8323`
+- **Custom skill location**: `~/.openclaw/workspace/skills/daily-calendar-reminder/`
 - **Feishu Bitable URL**: https://my.feishu.cn/base/YmMcb4PUlaTIAmshS6EcFqPenff?table=tbllwg2t4sEJ64i1&view=vewBOvxLXA
 
 ## Lessons Learned
